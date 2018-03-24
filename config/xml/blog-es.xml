@@ -6,12 +6,28 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Conoce &amp;quot;PrestaTrust&amp;quot;, un sistema de trazabilidad basado en el sistema blockchain</title>
+    <link>https://www.prestashop.com/es/blog/lanzamiento-prestatrust</link>
+    <description>Tras la reciente presentación de su versión 1.7.3, PrestaShop lanza &quot;PrestaTrust&quot;, un sistema de trazabilidad basado en la innovación blockchain.</description>
+     <pubDate>Tue, 20 Mar 2018 17:54:47 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/lanzamiento-prestatrust</guid>
+  </item>
+  <item>
     <title>PrestaShop Day Madrid 2018, el evento para todos los profesionales del eCommerce</title>
     <link>https://www.prestashop.com/es/blog/ievento-prestashop-day-madrid-el-19-de-abril-de-2018</link>
     <description>En PrestaShop estamos de enhorabuena, ya que te anunciamos que el próximo 19 de abril de 2018, tendrá lugar la tercera edición del PrestaShop Day, de nue</description>
      <pubDate>Thu, 15 Mar 2018 09:46:02 +0100</pubDate>
  <dc:creator>Marine</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/ievento-prestashop-day-madrid-el-19-de-abril-de-2018</guid>
+  </item>
+  <item>
+    <title>#Posiciona18: el mayor evento digital sobre posicionamiento de Marca</title>
+    <link>https://www.prestashop.com/es/blog/posiciona18</link>
+    <description>¿Te gustaría aprender a mejorar el posicionamiento de tu negocio en Internet, pero no sabes cómo? En el congreso online gratuito #Posiciona18 podrás hacerlo.</description>
+     <pubDate>Wed, 14 Mar 2018 12:35:52 +0100</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/posiciona18</guid>
   </item>
   <item>
     <title>¿Cómo crear una ficha de producto optimizada para tu eCommerce?</title>
@@ -68,23 +84,6 @@
      <pubDate>Fri, 23 Feb 2018 10:07:47 +0100</pubDate>
  <dc:creator>Rafa_Sospedra</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/enlaces-dofollow-nofollow</guid>
-  </item>
-  <item>
-    <title>Los 10 Mejores módulos SEO para mejorar el posicionamiento de tu tienda PrestaShop</title>
-    <link>https://www.prestashop.com/es/blog/modulos-seo</link>
-    <description>¿Existen módulos SEO que te ayuden a mejorar el posicionamiento de tu eCommerce?
-Claro que sí, precisamente éste es el tema del que quiero hablarte hoy en el blog de PrestaShop.</description>
-     <pubDate>Fri, 23 Feb 2018 08:23:10 +0100</pubDate>
- <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-seo</guid>
-  </item>
-  <item>
-    <title>¿Qué es el Marketing de Influencers y cómo integrarlo en la estrategia de tu eCommerce?</title>
-    <link>https://www.prestashop.com/es/blog/marketing-de-influencers</link>
-    <description>Hoy en día, el marketing de influencers es una de las mejores técnicas que te pueden ayudar a llegar a nuevos clientes.</description>
-     <pubDate>Mon, 19 Feb 2018 12:31:41 +0100</pubDate>
- <dc:creator>María Martín Parrilla</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/marketing-de-influencers</guid>
   </item>
   </channel>
 </rss>
