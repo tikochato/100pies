@@ -24,5 +24,9 @@
  * International Registered Trademark & Property of PrestaShop SA
  */
 
-require(dirname(__FILE__).'/config/config.inc.php');
-Dispatcher::getInstance()->dispatch();
+if (isset(Context::getContext()->controller)) {
+    $controller = Context::getContext()->controller;
+} else {
+    $controller = new FrontController();
+    $controller->init();
+}
